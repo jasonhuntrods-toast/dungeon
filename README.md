@@ -1,2 +1,2 @@
 # dungeon
-A rogue-like game in C/C++.
+A rogue-like game in C/C++

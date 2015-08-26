@@ -1,2 +1,2 @@
 # dungeon
-A rogue-like game created in COMS 229.
+A rogue-like game in C/C++.
